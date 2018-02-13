@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Rockwell ING';
+    src: url('subset-RockwellING-Bold.woff2') format('woff2'),
+        url('subset-RockwellING-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rockwell ING';
+    src: url('subset-RockwellING-Bold.woff2') format('woff2'),
+        url('subset-RockwellING-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
